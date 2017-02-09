@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Fonts-->
+    <dimen name="font_hugePlus"  >55sp</dimen>
+    <dimen name="font_huge"      >49sp</dimen>
+    <dimen name="font_bigPlus"   >43sp</dimen>
+    <dimen name="font_big"       >37sp</dimen>
+    <dimen name="font_mediumPlus">31sp</dimen>
+    <dimen name="font_medium"    >25sp</dimen>
+    <dimen name="font_miniPlus"  >21sp</dimen>
+    <dimen name="font_mini"      >17sp</dimen>
+    <dimen name="font_microPlus" >15sp</dimen>
+    <dimen name="font_micro"     >13sp</dimen>
+    <dimen name="font_nano"      >11sp</dimen>
+
+    <string name="font_sansation_light">fonts/Sansation_Light.ttf</string>
+    <string name="font_sansation_bold">fonts/Sansation_Bold.ttf</string>
+    <string name="font_sansation_italic">fonts/Sansation_Italic.ttf</string>
+    <string name="font_sansation_regular">fonts/Sansation_Regular.ttf</string>
+    <string name="font_sansation_light_italic">fonts/Sansation_Light_Italic.ttf</string>
+    <string name="font_sansation_bold_italic">fonts/Sansation_Bold_Italic.ttf</string>
+    <string name="font_icomoon">fonts/icomoon.ttf</string>
+
+</resources>

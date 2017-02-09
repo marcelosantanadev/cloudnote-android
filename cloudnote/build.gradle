@@ -1,0 +1,73 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.neenbedankt.android-apt'
+
+android {
+    compileSdkVersion rootProject.ext.androidCompileSdkVersion
+    buildToolsVersion rootProject.ext.androidBuildToolsVersion
+    defaultConfig {
+        applicationId rootProject.ext.androidApplicationId
+        minSdkVersion rootProject.ext.androidMinSdkVersion
+        targetSdkVersion rootProject.ext.androidTargetSdkVersion
+        versionCode rootProject.ext.androidVersionCode
+        versionName rootProject.ext.androidVersionName
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'LICENSE.txt'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE'
+    }
+    dexOptions {
+        javaMaxHeapSize "3g"
+    }
+    lintOptions {
+        quiet true
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    dataBinding {
+        enabled = true
+    }
+}
+
+dependencies {
+    Map<String, String> dependencies = rootProject.ext.dependencies
+
+
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile fileTree(include: ['*.java'], dir: 'libs')
+    compile fileTree(include: ['*.so'], dir: 'libs')
+    compile(dependencies.materialDialog) {
+        transitive = true
+    }
+    compile dependencies.multidex
+    compile dependencies.appCompat
+    compile dependencies.design
+    compile dependencies.supportV4
+    compile dependencies.cardView
+    compile dependencies.recyclerView
+    compile dependencies.calligraphy
+    compile dependencies.gson
+    compile dependencies.retrofitConverterGson
+    compile dependencies.retrofitAdapterRxJava
+    compile dependencies.rxAndroid
+    compile dependencies.rxJava
+    compile dependencies.rxBinding
+    compile dependencies.rxBindingDesign
+    compile dependencies.facebook
+    compile dependencies.circleImageView
+    compile dependencies.nineOldAndroids
+    compile dependencies.butterknife
+    compile 'com.google.dagger:dagger:2.2'
+    apt 'com.google.dagger:dagger-compiler:2.2'
+    provided 'javax.annotation:jsr250-api:1.0'
+}

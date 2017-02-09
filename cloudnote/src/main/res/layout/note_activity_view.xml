@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data/>
+
+    <android.support.design.widget.CoordinatorLayout
+        android:id="@+id/launch_noteView"
+        android:background="@color/colorBase"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_gravity="center"
+            android:id="@+id/layout_noteView"
+            android:background="@color/colorBase"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            android:layout_height="match_parent">
+
+          <TextView
+              android:layout_width="match_parent"
+              android:text="14/10/2016"
+              android:background="@color/grayMiddle"
+              android:textAlignment="center"
+              android:textSize="@dimen/font_microPlus"
+              android:padding="@dimen/gutter50"
+              android:textColor="@color/grayDark"
+              android:id="@+id/dateCreated"
+              android:layout_height="wrap_content"/>
+
+          <EditText
+              android:layout_width="match_parent"
+              android:layout_below="@id/dateCreated"
+              android:ems="1"
+              android:id="@+id/message"
+              android:layout_height="match_parent"/>
+
+
+            <LinearLayout
+                android:id="@+id/progress_indicator"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:background="@color/white">
+
+                <ProgressBar
+                    style="?android:attr/progressBarStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="5dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:textColor="@android:color/darker_gray"
+                    android:text="@string/loading" />
+
+            </LinearLayout>
+
+            <include layout="@layout/layout_offline" />
+
+        </RelativeLayout>
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fitsSystemWindows="true">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_scrollFlags="scroll|enterAlways"
+                android:background="@color/colorPrimary"
+                app:theme="@style/AppTheme.ActionBar"/>
+
+        </android.support.design.widget.AppBarLayout>
+
+    </android.support.design.widget.CoordinatorLayout>
+</layout>

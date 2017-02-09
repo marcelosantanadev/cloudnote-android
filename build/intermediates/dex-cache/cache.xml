@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_d713f44602ca8564ae5d7f9df1aa735428c875dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.2/febfd2d9e89bde4c3a9723bcd9522cba96bddac7/dagger-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="febfd2d9e89bde4c3a9723bcd9522cba96bddac7">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.2_72a4d5de03ff9c08536d59e5452e59219018600b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_82e73a2e875651005ed1905b20a61d823e7e4e36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0/bf61256d9868ea053e24d77669c55c80db375c15/adapter-rxjava-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bf61256d9868ea053e24d77669c55c80db375c15">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.0_4af40e50dfd636649620e450d460cd57508d8bb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_80d4171db8db6e2abde46d0f576de7639dea4eeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_2e28cf66a24d3f3a6cf879382407f27aeffe7ba8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_aa7c216c8cb0b35e840fe9f5a26602bb1ee0cd52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-support-v4/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="417b075934c24fa45ba94be0f451fd6dec69feb8">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-support-v4-0.4.0_d77c6c2a655b08f24c9be92d69c1d374fd7d03af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_3f55e60202a2bcf8fb966365bd566180bebefddb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/me.zhanghai.android.materialprogressbar-library-1.1.7_84df86b31b2022f09641f7fd04a9cc21b5240c34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_c40c6d98b14b8fe3b1194ad53fc5ba0e0a35b4bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e3de9057bca157c0ad0fa536296fb58f4c196ef3">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0cb907e3b324f1255aa7a7401bae720ca344cbd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_ab46589fe3c04f1cc1961f15be00558133e018e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-25.0.0_cc51f38fe2d978d918a5bfae3828ddc18ab616bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_cee5ea236f22ff88790964870b14d7860f26c9f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_7520621d43a3f79f1af59912e07a373a61d49f0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.2/baseLibrary-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e3519b9d5287840df40776a8268ae336ca9f063">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.2_7ed53c723ae13fdba19a1b45153e478d184e8ae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_a6128baa096955d2cd99cd4028847acef4965c22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e316b8d7be7d86da0788d1c0e1a3af914d81bd54">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_00a6841df0e9cc4884a4105f31c85f746c270501/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_764b0d348cec216c393ea63e038a6c9f53d5f631/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0_60055e9a0b8fcf87864e5b17dbd7d2af11483854/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0_4d14cbd0cbcedd554d22637a42821c2f6f95e96c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b0b21afb17ebdc10d8ecf3bbcc306040129cd148/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_d417d4312063c48a25b4c2145f58becb269bf293/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_9732f539bf3de3a37258082f64dac637cf6f17cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_de5316613fe587fa2ccd3d47d7d0b1c765157af3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23c7c34bfb3cdc0599d49e581486b179bc6b2eee">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.17.0_f09a6ed366ab55720ef0175b2a7fab488d27014d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_0b80bce4deb1d93f2ffb8e6ed0e4db0024fd2e5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ede114c8b2ba1b3282d9df19fea49ab2f876ea5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_375717bb131f7b4f1c62595e29f976f836e38265/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_2def54b610befa036f29b2590f40ed2cc4c6b8a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f274e0036227df8e4ec10a6eabf5bfacdd940ccb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-design/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d875246afc9be5798bf65fd61fb42af06fee4553">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-design-0.4.0_ef5fc4a77e901923cb9c684ad6938b02ad5fa96f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_6ac1d1ca093419511cbe126de371e7cc981213fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_e727e2d872a852037f25224c2ed29baa27f03271/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_edb52dc18de8e20284326913639377df5c647ba9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_8a6f50fc17c7263fb24d5c6580c7797178ca11bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.2.1_064ac1d9fcd58bbb5fcf9395a23a8351b4f96423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_8e240e5b2c4f3f8fd545f44e1b268c6775f59d49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_d98efd4d05c7791f8a106a93b09ad8f16c3b8b4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-0.4.0_9df4929360c8cfcf91d592024c2e9a7949f23786/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="acc33023966f868dfe3ecb77a3ce5676dc8de92d">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/com.afollestad.material-dialogs-core-0.9.0.1_9c470bd7eed9722bdb72afe26b486904835b6622/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/uk.co.chrisjenx/calligraphy/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/uk.co.chrisjenx-calligraphy-2.1.0_9e4a7e3e63f0544ee88c5ceea2c6984543be2af7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_255d4b0d4431b0cb43c89f3788f2f16e19d99a97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_a629742c3b8040aa8b37dc72947f3395c77c1d62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_830b4cff5df251887dd1134c0b79be1d157f00ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/marcelosantana/Dropbox/lotustecnologia/CloudNote/cloudnote-android-customer/cloudnote/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_12d6b7833c4e6d3599a3f084e99ad6b4a5e91750/classes.dex" />
+    </item>
+
+</items>

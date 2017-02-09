@@ -1,0 +1,68 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="icon_margin">16dp</dimen>
+    <dimen name="dimen_nav_drawer">280dp</dimen>
+    <!-- Match 56dp default ActionBar height on portrait orientation -->
+    <dimen name="nav_drawer_margin_offset">-8dp</dimen>
+
+    <dimen name="small_fab_size">32dp</dimen>
+    <dimen name="medium_fab_size">40dp</dimen>
+    <dimen name="large_fab_size">50dp</dimen>
+
+    <dimen name="fab_size_normal">56dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+
+    <dimen name="fab_icon_size">24dp</dimen>
+
+    <dimen name="fab_plus_icon_size">14dp</dimen>
+    <dimen name="fab_plus_icon_stroke">2dp</dimen>
+
+    <dimen name="fab_shadow_offset">3dp</dimen>
+    <dimen name="fab_shadow_radius">9dp</dimen>
+
+    <dimen name="fab_stroke_width">1dp</dimen>
+
+    <dimen name="fab_actions_spacing">16dp</dimen>
+    <dimen name="fab_labels_margin">8dp</dimen>
+
+    <dimen name="md_styled_text_title">24sp</dimen>
+    <dimen name="md_styled_text_description">18sp</dimen>
+    <dimen name="md_styled_dialog_header">120dp</dimen>
+    <dimen name="md_styled_pic_size">56dp</dimen>
+
+    <!-- Custom margins -->
+    <dimen name="gutter1000">200dp</dimen>
+    <dimen name="gutter950">190dp</dimen>
+    <dimen name="gutter900">180dp</dimen>
+    <dimen name="gutter850">170dp</dimen>
+    <dimen name="gutter800">160dp</dimen>
+    <dimen name="gutter750">150dp</dimen>
+    <dimen name="gutter700">140dp</dimen>
+    <dimen name="gutter650">130dp</dimen>
+    <dimen name="gutter600">120dp</dimen>
+    <dimen name="gutter550">110dp</dimen>
+    <dimen name="gutter500">100dp</dimen>
+    <dimen name="gutter450">90dp</dimen>
+    <dimen name="gutter400">80dp</dimen>
+    <dimen name="gutter350">70dp</dimen>
+    <dimen name="gutter300">60dp</dimen>
+    <dimen name="gutter250">50dp</dimen>
+    <dimen name="gutter200">40dp</dimen>
+    <dimen name="gutter150">30dp</dimen>
+    <dimen name="gutter140">28dp</dimen>
+    <dimen name="gutter125">25dp</dimen>
+    <dimen name="gutter100">20dp</dimen>
+    <dimen name="gutter75">15dp</dimen>
+    <dimen name="gutter50">10dp</dimen>
+    <dimen name="gutter40">8dp</dimen>
+    <dimen name="gutter35">7dp</dimen>
+    <dimen name="gutter30">6dp</dimen>
+    <dimen name="gutter25">5dp</dimen>
+    <dimen name="gutter20">4dp</dimen>
+    <dimen name="gutter15">3dp</dimen>
+    <dimen name="gutter10">2dp</dimen>
+    <dimen name="gutter5">1dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

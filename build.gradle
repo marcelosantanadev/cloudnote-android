@@ -1,0 +1,29 @@
+apply from: 'buildsystem/dependencies.gradle'
+
+buildscript {
+    repositories {
+        jcenter()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.2'
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+    }
+}
+
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+    ext {
+        androidApplicationId = 'marcelosantana.me.cloudnote'
+        androidVersionCode = 1
+        androidVersionName = "2016/11/06"
+        testInstrumentationRunner = "android.support.test.runner.AndroidJUnitRunner"
+        testApplicationId = 'br.com.automobi.appbeta.test'
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
